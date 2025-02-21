@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [YuSin Chen,陳鈺昕]!
+# 👋 Hi, I'm [YuSin Chen, 陳鈺昕]!
 🚀 I'm a university student majoring in Information Management, passionate about programming and software development.
 <!--
 ## 🔧 Skills & Technologies
