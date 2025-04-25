@@ -5,7 +5,7 @@
 - **Languages:** Python, JavaScript, PHP, Kotlin
 - **Web Development:** HTML, CSS, React
 - **Tools:** VSCode, XAMPP, Andriod Studio
-- **Others:** PMML, Machine Learning, API Development
+- **Others:** Machine Learning
 <!--
 ## 📌 Featured Projects
 - [🔥 My Web App](https://github.com/你的使用者名稱/專案名稱) - A simple web app built with Flask & React.
