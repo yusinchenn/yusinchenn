@@ -6,12 +6,12 @@
   <img src="https://github.com/user-attachments/assets/a11ce3b6-eaa9-4326-b521-fba94e614e46" width="100%" alt="banner"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm <strong>YuSin Chen（陳鈺昕）</strong></h1>
+<h1 align="center"><strong>YuSin Chen</strong></h1>
 
 <p align="center">
-  🌱 <strong>Information Management Student</strong>  \
-  🚀 Passionate about Software Development, Web Technologies, and Creative Coding  \
-  🎨 Loving clean UI, modern web design, and interactive projects
+  Information Management Student \
+  Passionate about Software Development, Web Technologies, and Creative Coding  \
+  Loving clean UI, modern web design, and interactive projects
 </p>
 
 <hr/>
@@ -26,12 +26,12 @@
 
 <br/>
 
-# 🎨 About Me
+# 🟦 About Me
 
 <details open>
-<summary><strong>✨ 點我展開 / 收合 自我介紹</strong></summary>
+<summary><strong>自我介紹</strong></summary>
 
-👋 Hi! I'm **YuSin Chen（陳鈺昕）**,  
+👋 Hi! I'm **YuSin Chen**,  
 a university student majoring in **Information Management**, currently exploring the world of:
 
 - 💻 **Programming & Full-Stack Development**  
@@ -39,13 +39,12 @@ a university student majoring in **Information Management**, currently exploring
 - 🎨 **Creative Web Frontend**  
 - 🤖 **Machine Learning & Data Projects**
 
-I enjoy building **useful & meaningful tools**, crafting beautiful UI, and turning ideas into real products.
+I enjoy building useful & meaningful tools, crafting beautiful UI, and turning ideas into real products.
 
 </details>
-
 ---
 
-# 🚀 Skills & Technologies
+# 🟦 Skills & Technologies
 
 <table>
 <tr><th>領域</th><th>技術</th></tr>
@@ -74,14 +73,14 @@ I enjoy building **useful & meaningful tools**, crafting beautiful UI, and turni
 
 ---
 
-# 🗂️ Featured Projects (Coming Soon)
+# 🟦 Featured Projects (Coming Soon)
 
-> 🔧 **未來你可以把你的專案連結放進來，我已幫你保留區塊！**
+>  **未來你可以把你的專案連結放進來，我已幫你保留區塊！**
 
 <details>
-<summary><strong>📌 專案作品展示</strong></summary>
+<summary><strong>專案作品展示</strong></summary>
 
-### 🎯 專案類型建議（可放這裡）
+### 專案類型建議（可放這裡）
 - Web App  
 - Mobile App（Kotlin / Android Studio）  
 - 資料分析 / Machine Learning  
@@ -91,62 +90,39 @@ I enjoy building **useful & meaningful tools**, crafting beautiful UI, and turni
 You can add:
 ```md
 ### 🔥 My Project Name
-🔗 Demo / Code: https://github.com/xxxx  
-📌 Technologies: React / Kotlin / Python  
-✨ Summary: Use this area to explain your project.
+Demo / Code: https://github.com/xxxx  
+Technologies: React / Kotlin / Python  
+Summary: Use this area to explain your project.
 ```
 
 </details>
 
 ---
 
-# 🧩 Knowledge Map (Mermaid Interactive Diagram)
-
-```mermaid
-mindmap
-  root((YuSin Chen))
-    Programming
-      Python
-      JavaScript
-      Kotlin
-      PHP
-    Development
-      Web Development
-      Mobile App
-      Machine Learning
-    Tools
-      VSCode
-      Android Studio
-      XAMPP
-```
-
----
-
-# 🏆 Achievements (Coming Soon)
+# 🟦 Achievements (Coming Soon)
 
 <details>
-<summary><strong>✨ 成就 / 活動 / 證照 區塊</strong></summary>
+<summary><strong>成就 / 活動 / 證照 區塊</strong></summary>
 
-- 🥇 Competition Awards  
-- 📜 Certifications  
-- 🎤 Tech Talks / Events  
-- 📚 Research / Papers  
+- Competition Awards  
+- Certifications  
+- Tech Talks / Events  
+- Research / Papers  
 
 </details>
 
 ---
 
-# 📬 Contact Me
+# 🟦 Contact Me
 
 <p align="center">
-  <a href="mailto:yusin@example.com">📧 Email</a> |
-  <a href="https://www.linkedin.com/">💼 LinkedIn</a> |
-  <a href="https://github.com/YOUR_ID">🐙 GitHub</a>
+  <a href="mailto:yusin@example.com">Email</a> |
+  <a href="https://www.linkedin.com/">LinkedIn</a> |
+  <a href="https://github.com/YOUR_ID">GitHub</a>
 </p>
 
 ---
 
 <p align="center">
   <strong>✨ Thanks for visiting! ✨</strong><br/>
-  Always building, always learning. 🚀
 </p>
