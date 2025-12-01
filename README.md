@@ -26,13 +26,13 @@
 
 <br/>
 
-# 🟦 About Me
+## 🟦 About Me
 
 <details open>
 <summary><strong>自我介紹</strong></summary>
 
 👋 Hi! I'm **YuSin Chen**,  
-a university student majoring in **Information Management**, currently exploring the world of:
+a university student majoring in Information Management, currently exploring the world of:
 
 - 💻 **Programming & Full-Stack Development**  
 - 📱 **Mobile App (Android / Kotlin)**  
@@ -42,9 +42,10 @@ a university student majoring in **Information Management**, currently exploring
 I enjoy building useful & meaningful tools, crafting beautiful UI, and turning ideas into real products.
 
 </details>
+
 ---
 
-# 🟦 Skills & Technologies
+## 🟦 Skills & Technologies
 
 <table>
 <tr><th>領域</th><th>技術</th></tr>
@@ -73,19 +74,10 @@ I enjoy building useful & meaningful tools, crafting beautiful UI, and turning i
 
 ---
 
-# 🟦 Featured Projects (Coming Soon)
-
->  **未來你可以把你的專案連結放進來，我已幫你保留區塊！**
+## 🟦 Featured Projects (Coming Soon)
 
 <details>
-<summary><strong>專案作品展示</strong></summary>
-
-### 專案類型建議（可放這裡）
-- Web App  
-- Mobile App（Kotlin / Android Studio）  
-- 資料分析 / Machine Learning  
-- 演算法視覺化  
-- 個人網站  
+<summary><strong>專案作品</strong></summary>
 
 You can add:
 ```md
@@ -99,21 +91,28 @@ Summary: Use this area to explain your project.
 
 ---
 
-# 🟦 Achievements (Coming Soon)
+## 🟦 Achievements
 
 <details>
-<summary><strong>成就 / 活動 / 證照 區塊</strong></summary>
+<summary><strong>獲獎 / 證照 / 其他</strong></summary>
 
-- Competition Awards  
-- Certifications  
-- Tech Talks / Events  
-- Research / Papers  
+### 獲獎
+- 114學年度資訊管理系實務專題 最佳論文獎
+
+### 證照
+- TAMI 醫學資訊管理師 
+- CSF 企業電子化助理智慧健康照護師
+- TQC 人工智慧應用與技術 專業級
+- TQC+ 軟體開發知識
+- TQC+ 網頁程式設計 HTML5 第2版
+
+### 其他
 
 </details>
 
 ---
 
-# 🟦 Contact Me
+## 🟦 Contact Me
 
 <p align="center">
   <a href="mailto:yusin@example.com">Email</a> |
