@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
   <!--
-  ![Generated Image September 07, 2025 - 10_30PM](https://github.com/user-attachments/assets/d1312cf5-5dd6-43c9-9acc-aba2c762642b)
+  ![ocean-4346633_1920](https://github.com/user-attachments/assets/a11ce3b6-eaa9-4326-b521-fba94e614e46)
   -->
-  <img src="https://github.com/user-attachments/assets/d1312cf5-5dd6-43c9-9acc-aba2c762642b" width="80%" alt="banner"/>
+  <img src="https://github.com/user-attachments/assets/a11ce3b6-eaa9-4326-b521-fba94e614e46" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>YuSin Chen（陳鈺昕）</strong></h1>
